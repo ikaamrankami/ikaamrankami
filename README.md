@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mwgzDgWmjTdrvisDRrijWg.gif)](https://github.com/ikaamrankami)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*xf7n_uJyy85hkxeb7lDFzg.gif)](https://github.com/ikaamrankami)
 <h1 align="center">Hi 👋, I'm Kamran Khan</h1>
 <h3 align="center">Mobile Application Developer | Flutter and Dart | Firebase.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikaamrankami&label=Profile%20views&color=0e75b6&style=flat" alt="ikaamrankami" /> </p>
 
